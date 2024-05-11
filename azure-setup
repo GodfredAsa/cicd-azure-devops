@@ -11,10 +11,10 @@ For everything that you will do needs to be done under storage account. Cost not
     - LOGIN REMOTELY
        - After enabling Admin User
        - Copy the following information for configuring devops pipelines
-         - registry Name: devopsazureregistry100
-         -  Login  server: devopsazureregistry100.azurecr.io
-         - Username: devopsazureregistry100
-         - Password: LfxjbHrsA1nzrqTDSsJkP45u8TFra8VbJEwXslbQ0U+ACRBQx76u
+         - registry Name: "devopsazureregistry100"
+         -  Login  server: "devopsazureregistry100.azurecr.io"
+         - Username: "devopsazureregistry100"
+         - Password: "LfxjbHrsA1nzrqTDSsJkP45u8TFra8VbJEwXslbQ0U+ACRBQx76u"
     - When deployment is successful you will see a container at repositories under the services tab.
 
 - Creating AzureDevops Account: www.dev.azure.com
